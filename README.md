@@ -22,7 +22,7 @@
 
 ![Ekran Alıntısı44](https://user-images.githubusercontent.com/95309199/145665957-5b6ff544-0584-4b71-b1c5-851f57169e8a.PNG)
 
-* Ayar sayfamız açılıyor sayfamızdan "HiddenServiceDir ve HiddenServicePort" un yanlarındaki "Hashtag" leri kaldırıyoruz. Ve "ctrl x" yapıyoruz kayıt edilsinmi diye soruyor "y" ye basıyoruz saonrada enter a basınca kayıt edip kontrol paneline atıyor.
+* Ayar sayfamız açılıyor sayfamızdan "HiddenServiceDir ve HiddenServicePort" un yanlarındaki "Hashtag" leri kaldırıyoruz. Ve "ctrl x" yapıyoruz kayıt edilsinmi diye soruyor Y veya E "(Yes veya Evet)" basıyoruz saonrada enter a basınca kayıt edip kontrol paneline atıyor.
 
 
 ![Ekran Alıntısı55](https://user-images.githubusercontent.com/95309199/145666116-4c024740-a8a1-413e-acfc-d2f18ef5d028.PNG)
