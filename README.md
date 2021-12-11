@@ -38,7 +38,6 @@
 * Şuan vpn en den dinleyen vpn en den broadcast eden bir sunucu kurmuş olduk. Şimdi ise bu sunucuya tor üzerinden bağlanmak için adresimizi ögrenmemiz gerekiyor.
 
 
-![Ekran Alıntısı77](https://user-images.githubusercontent.com/953091/145666508-7d99346a-62a1-49a4-8402-cc79fb30d239.PNG)
 
 * Adresimizi öğrenmek için "sudo cat /var/lib/tor/hidden_service/hostname" yazıyoruz ve enter a basıyoruz ve alt satıra düşüyor sonu ".onion" ile bitiyor. Adresimizin bukadar uzun olmasının sebebi 56 bit lik olduğu için daha güvenilir.
 
