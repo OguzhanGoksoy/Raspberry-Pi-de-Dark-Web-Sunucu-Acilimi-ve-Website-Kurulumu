@@ -1,4 +1,4 @@
-# Raspberry-pi-Dark-Web-Server-
+# Raspberry Pi de Dark Web Sunucu Acılımı ve Website Kurulumu
 
 * Merhaba tor üzerinden bir dark web sunucusu kurmayı göstericem. Bu sunucu için sabit ip veya modem üzerine 80 port u açmamıza gerek yok ve normal bir sunucu için lazım olan şeylerin çoğuna ihtiyacınız olmuyor. Bu sunucu sadece tor da kullana bilirsiniz. Neden dark web de bir sunucu açmak istedim çünki sabit ip için ücretlendirme yapılıyor ve normal bir sunucuya ihtiyacım yoktu. Bu sunucu da olan trafiği "prensipte" kimse dinliyemiyor çünki bütün trafik encrypted lanmış olduğu için biraz daha güvenili ve gizli oluyor. Hadi kuruluma başlayalım.
 
