@@ -40,9 +40,8 @@
 
 ![Ekran Alıntısı77](https://user-images.githubusercontent.com/953091/145666508-7d99346a-62a1-49a4-8402-cc79fb30d239.PNG)
 
-* Adresimizi öğrenmek için "sudo cat /var/lib/tor/hidden_service/hostname" yazıyoruz ve enter a basıyoruz ve alt satıra düşüyor sonu ".onion" ile bitiyor. Adresimizin bukadar uzun olmasının sebebi 56 bit lik olduğu için çünki daha güvenli.
+* Adresimizi öğrenmek için "sudo cat /var/lib/tor/hidden_service/hostname" yazıyoruz ve enter a basıyoruz ve alt satıra düşüyor sonu ".onion" ile bitiyor. Adresimizin bukadar uzun olmasının sebebi 56 bit lik olduğu için daha güvenilir.
 
-
-   ![Ekran Alıntısı88](https://user-images.githubusercontent.com/95309199/145666717-2f81ae3f-f816-4123-bbcc-568447d729f3.PNG)
+![Ekran Alıntısı88](https://user-images.githubusercontent.com/95309199/145666717-2f81ae3f-f816-4123-bbcc-568447d729f3.PNG)
 
 * Şimdi ise adresimizi istediğimiz bir bigisayar veya başka bir yerden erişe biliyoruz. Erişmek için tor browser veya tor a bağlanan başka bir browser a adresimizi yapıştırıyoruz ve ekrana "Welcome to nginx"  yazıyorsa başarmışız demektir. Şimdi "Dark web" te bir sunucun var demektir istediğin gibi kullana bilirsin.
