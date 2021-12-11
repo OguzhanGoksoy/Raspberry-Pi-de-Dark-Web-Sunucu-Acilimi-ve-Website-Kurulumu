@@ -4,7 +4,7 @@
 
 * Öncelikle terminali açıyoruz.
 
-* Sonra tor u kuruyoruz. Kurmak içinde "sudo apt install tor" yazıp enter a basıyoruz. Şifre sorarsa şifremizi giriyoruz.
+* Sonra tor u kuruyoruz. Kurmak içinde "sudo apt install tor" yazıp enter a basıyoruz ve bizden onay istiyor Y veya E "(Yes veya Evet)" ye basıp enter lıyoruz. Şifre sorarsa şifremizi giriyoruz.
 
 ![Ekran Alıntısı11](https://user-images.githubusercontent.com/95309199/145665690-a6645de1-a1d6-4a16-8a99-d56c79334990.PNG)
 
