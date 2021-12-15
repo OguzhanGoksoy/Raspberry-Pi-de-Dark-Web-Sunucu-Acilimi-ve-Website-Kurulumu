@@ -17,7 +17,7 @@
 
 ![Ekran Alıntısı33](https://user-images.githubusercontent.com/95309199/145665914-a82146e2-7e07-40ce-a50c-e11b9985bac7.PNG)
 
-* Ayarlarımızı yapmak için sudo nano /etc/tor/torrc yazıp enter a basıyoruz.
+* Ayarlarımızı yapmak için "sudo nano /etc/tor/torrc" yazıp enter a basıyoruz.
 
 
 ![Ekran Alıntısı44](https://user-images.githubusercontent.com/95309199/145665957-5b6ff544-0584-4b71-b1c5-851f57169e8a.PNG)
