@@ -12,7 +12,7 @@
 
 ![Ekran Alıntısı22](https://user-images.githubusercontent.com/95309199/145665823-87bb3708-f01b-40b5-9a54-021fa5974639.PNG)
 
-* Tor umuz çalışıyormu kontrol deiyoruz. Onun içinde "sudo tor status" yazıyoruz. Yeşil yazı ile "active" yazıyorsa çalışıyor demektir.
+* Tor umuz çalışıyormu kontrol deiyoruz. Onun içinde "sudo service tor status" yazıyoruz. Yeşil yazı ile "active" yazıyorsa çalışıyor demektir.
 
 
 ![Ekran Alıntısı33](https://user-images.githubusercontent.com/95309199/145665914-a82146e2-7e07-40ce-a50c-e11b9985bac7.PNG)
