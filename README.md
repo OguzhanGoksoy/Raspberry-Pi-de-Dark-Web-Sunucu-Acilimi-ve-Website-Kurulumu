@@ -45,3 +45,5 @@
 ![Ekran Alıntısı88](https://user-images.githubusercontent.com/95309199/145666717-2f81ae3f-f816-4123-bbcc-568447d729f3.PNG)
 
 * Şimdi ise adresimizi istediğimiz bir bigisayar veya başka bir yerden erişe biliyoruz. Erişmek için tor browser veya tor a bağlanan başka bir browser a adresimizi yapıştırıyoruz ve ekrana "Welcome to nginx"  yazıyorsa başarmışız demektir. Şimdi "Dark web" te bir sunucun var demektir istediğin gibi kullana bilirsin.
+
+* Basit bir message box yazmıştım isteyen mesaj yazabilir. Tor network' ü üzerinden girilmelidir. Link( fk7vgwxvieslppjh7stvfec7wei2iufulgwpvcggbs6gp5qhybjvmqyd.onion )
